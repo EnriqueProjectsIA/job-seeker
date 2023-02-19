@@ -132,6 +132,7 @@ ENV/
 env.bak/
 venv.bak/
 job-seeker/
+jobseeker/
 
 # Spyder project settings
 .spyderproject
