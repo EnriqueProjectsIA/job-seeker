@@ -148,6 +148,7 @@ jobseeker/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+secrets.txt
 
 # Pyre type checker
 .pyre/
